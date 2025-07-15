@@ -30,7 +30,7 @@ public class Car
 
     public Car()
     {
-        CarLot.numberOfCars++;
+        CarLot.NumberOfCars++;
         //ClassName.StaticMember
     }
 
