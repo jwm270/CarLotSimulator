@@ -30,7 +30,8 @@ public class Car
 
     public Car()
     {
-        
+        CarLot.numberOfCars++;
+        //ClassName.StaticMember
     }
 
     public Car(string make, string model, int year, bool isDriveable)
